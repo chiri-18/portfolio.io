@@ -1,18 +1,13 @@
 
 
 # Pranjal Tidke
-With 7.5 years of proven expertise in database administration, Healthcare IT and management, I have consistently demonstrated a commitment to excellence in optimizing performance, resolving client escalations, and nurturing high-performing teams.
-
-As a manager, I currently oversee a dedicated team of 11 SQL Database Administrators, ensuring the smooth operation of critical databases and managing day-to-day operations with precision. My leadership extends to addressing performance issues, employing strategic solutions to navigate complex challenges effectively.
-
-In the realm of client relations, I specialize in adeptly handling escalations by employing transparent communication and proactive problem-solving, thereby reinforcing our steadfast commitment to delivering exceptional service. I am a firm believer in transforming challenges into opportunities that highlight our unwavering dedication to ensuring client satisfaction.
-
+With 7.5 years of proven expertise in database administration, Healthcare IT and management, I have consistently demonstrated a commitment to excellence in optimizing performance, resolving client escalations, and nurturing high-performing teams.As a manager, I currently oversee a dedicated team of 11 SQL Database Administrators, ensuring the smooth operation of critical databases and managing day-to-day operations with precision.In the realm of client relations, I specialize in adeptly handling escalations by employing transparent communication and proactive problem-solving, thereby reinforcing our steadfast commitment to delivering exceptional service. 
 As a manager I collaborate closely with Development and Solution teams, serving as a liaison between technical intricacies and strategic objectives. Together, we identify and rectify product bugs promptly, minimizing disruptions and optimizing operational efficiency.
 
-Talent development is paramount to me. I like to foster a culture of continuous learning and recognition within my team, providing mentorship and growth opportunities that empower individuals to reach their full potential.
 
 ### Work Experience
 Associate Manager, Technical Support @Altera Digital Health (March 2023 - Present)
+
 ▪ Managing a team of more than 15 frontline Database Analysts working on Database Performance issues.
 
 ▪ Implementing Process improvement documents, coordinating with the stakeholders, and presenting the process document.
@@ -29,6 +24,7 @@ Associate Manager, Technical Support @Altera Digital Health (March 2023 - Presen
 
 
 Senior Database Administrator(Team lead)  @Altera Digital Health (May 2021 - March 2023)
+
 ▪ Troubleshooting Database-related issues like Application hang, timeout errors, and Application Freezing.
 
 ▪ Implementing, maintaining, and Troubleshooting HADR solutions: Clustering, Replication, Log Shipping, Always On.
