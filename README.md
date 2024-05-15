@@ -1,3 +1,5 @@
+##Pranjal Tidke
+
 # About me
 • A seasoned professional with 7.5 years of experience in IT.
 • Currently working as an Associate Manager, Technical Support for the past year and worked as a Senior DBA/Team Lead for 2 years.
