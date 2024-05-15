@@ -5,8 +5,8 @@ With 7.5 years of proven expertise in database administration, Healthcare IT and
 As a manager I collaborate closely with Development and Solution teams, serving as a liaison between technical intricacies and strategic objectives. Together, we identify and rectify product bugs promptly, minimizing disruptions and optimizing operational efficiency.
 
 
-### Work Experience
-###Associate Manager, Technical Support @Altera Digital Health (March 2023 - Present)
+## Work Experience
+### Associate Manager, Technical Support @Altera Digital Health (March 2023 - Present)
 
 ▪ Managing a team of more than 15 frontline Database Analysts working on Database Performance issues.
 
@@ -27,7 +27,7 @@ As a manager I collaborate closely with Development and Solution teams, serving 
 
 
 
-###Senior Database Administrator(Team lead)  @Altera Digital Health (May 2021 - March 2023)
+### Senior Database Administrator(Team lead)  @Altera Digital Health (May 2021 - March 2023)
 
 ▪ Troubleshooting Database-related issues like Application hang, timeout errors, and Application Freezing.
 
