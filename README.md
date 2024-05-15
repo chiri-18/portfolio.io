@@ -6,7 +6,7 @@ As a manager I collaborate closely with Development and Solution teams, serving 
 
 
 ### Work Experience
-#Associate Manager, Technical Support @Altera Digital Health (March 2023 - Present)
+###Associate Manager, Technical Support @Altera Digital Health (March 2023 - Present)
 
 ▪ Managing a team of more than 15 frontline Database Analysts working on Database Performance issues.
 
@@ -27,7 +27,7 @@ As a manager I collaborate closely with Development and Solution teams, serving 
 
 
 
-#Senior Database Administrator(Team lead)  @Altera Digital Health (May 2021 - March 2023)
+###Senior Database Administrator(Team lead)  @Altera Digital Health (May 2021 - March 2023)
 
 ▪ Troubleshooting Database-related issues like Application hang, timeout errors, and Application Freezing.
 
